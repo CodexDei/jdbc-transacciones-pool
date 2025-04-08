@@ -10,7 +10,7 @@ import org.codexdei.java.jdbc.util.ConexionBaseDatos;
 import java.sql.*;
 import java.util.Date;
 
-public class EjemploJdbc {
+public class EjemploJdbcSinService {
 
     public static void main(String[] args) throws SQLException {
 
